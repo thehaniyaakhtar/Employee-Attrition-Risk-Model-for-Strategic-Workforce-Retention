@@ -24,4 +24,9 @@ This directly reduces recruitment costs and safeguards institutional knowledge.
 ## 🧠 Skills Demonstrated  
 - Framing business problems into machine learning solutions  
 - Constructing interpretable models with clear communication value  
-- Creating data narratives for non-technical stakeholders  
+- Creating data narratives for non-technical stakeholders
+
+## Screenshots
+<img width="736" height="708" alt="Screenshot (458)" src="https://github.com/user-attachments/assets/f15c7b5c-d124-4d14-ae8c-8c28f71cb790" />
+<img width="1120" height="691" alt="Screenshot (457)" src="https://github.com/user-attachments/assets/cf3e0e00-1e54-468e-b8f9-f2d1e29a6c8e" />
+<img width="1622" height="690" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/008c557c-9401-4e0b-8b7f-199c45776190" />
