@@ -19,7 +19,7 @@ Develop a predictive analytics pipeline to identify patterns in employee behavio
 
 ## 🔎 Insights from Correlation Analysis
 
-![Correlation Plot](./Screenshot456.png)
+<img width="1622" height="690" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/008c557c-9401-4e0b-8b7f-199c45776190" />
 
 - **Top Negative Correlations** (indicate reduced risk of attrition):
   - `satisfaction_level`: -0.36 — strong inverse relation with attrition
@@ -44,7 +44,6 @@ Develop a predictive analytics pipeline to identify patterns in employee behavio
 
 ### 📉 Confusion Matrix & Classification Report
 
-<img width="1622" height="690" alt="Screenshot (456)" src="https://github.com/user-attachments/assets/008c557c-9401-4e0b-8b7f-199c45776190" />
 <img width="736" height="708" alt="Screenshot (458)" src="https://github.com/user-attachments/assets/f15c7b5c-d124-4d14-ae8c-8c28f71cb790" />
 
 | Metric         | Value  |
