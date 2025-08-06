@@ -1,4 +1,4 @@
-# 🧠 Employee Attrition Prediction using Logistic Regression
+# 🧠 Employee Attrition Prediction
 
 This project enables **Salifort Motors** to detect employees at high risk of attrition by analyzing structured HR data and deploying an interpretable machine learning model. The objective is to equip HR with actionable intelligence to **reduce turnover**, improve retention, and optimize workforce planning.
 
